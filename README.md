@@ -20,8 +20,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fsocietry&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietry&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fsocietry&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fsocietry&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
