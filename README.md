@@ -1,54 +1,10 @@
-<h1 align="center">Hi there, I'm Ilham Muchammad Reza 👋</h1>
-
-<p align="center">
-  <em>Full-stack & mobile developer from Indonesia 🇮🇩 — building AI-powered apps, ML pipelines, and everything in between.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fsocietry"><img src="https://komarev.com/ghpvc/?username=fsocietry&style=flat-square&color=blue" alt="Profile views"/></a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 I build **web apps** (Next.js, React, NestJS, Express) and **mobile apps** (Flutter)
-- 🤖 Passionate about **AI/ML** — from LSTM price prediction to autonomous research agents
-- ⚙️ Hands-on with **MLOps**: MLflow, automated pipelines, CI/CD with GitHub Actions
-- 🌱 Always exploring new tech and shipping side projects
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frontend & Mobile**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI / ML & DevOps**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img src="assets/dark.svg" alt="Ilham Muchammad Reza — Full-Stack Developer · Flutter · AI/ML · MLOps" width="100%">
+  </picture>
+</div>
 
 ## ✨ Featured Projects
 
