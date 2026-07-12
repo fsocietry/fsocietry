@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-## ✨ Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -17,7 +17,7 @@
 | [Lokapandu](https://github.com/fsocietry/Lokapandu) | Flutter app for exploring Indonesian local tourist destinations, built with Clean Architecture | Flutter, Firebase AI, Supabase |
 | [PALS](https://github.com/fsocietry/PALS-Personalized-Adaptive-Learning-System) | Adaptive English-tenses learning platform that personalizes to each learning style | React, Express, Firebase |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fsocietry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <em>⭐ Feel free to explore my repositories and reach out for collaboration!</em>
+  <em>Feel free to explore my repositories and reach out for collaboration!</em>
 </p>
